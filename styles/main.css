@@ -1,0 +1,14 @@
+body{
+
+}
+
+.corpo_principal{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.boleto{
+    background-color: white;
+    border-radius: 10px 10px 0 0;
+    padding: 50px;
+}
